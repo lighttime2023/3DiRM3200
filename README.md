@@ -7,7 +7,7 @@ Our 3DiRM3200 dataset consisting of 3,200 3D radio maps, 200 building layout ima
 ## R2Net
 Our R2Net is  a novel 2D deep residual learning approach to estimate 3D radio maps by taking into account the impact of object heights. As pathloss exhibits different characteristics in indoor and outdoor scenarios, the R2Net is tailored to enhance feature extraction according to pathloss characteristics, including R2Net-In for indoor scenarios and R2Net-Out for outdoor scenarios.  In case that only a small training dataset is available, R2Net-Outlite is further proposed based on R2Net-Out to improve the generalization ability of the model.
 
-The codes of R2Net for training and testing are in the folder "R2Net" as the Jupyter Notebooks, which have shown the corresponding results.
+The codes of R2Net for training and testing are in the folder "R2Net" as the Jupyter Notebooks, which have shown the corresponding results. Due to the size limitation of upload data on the github, the trained models of R2Net-In and R2Net-Out cannot be uploaded, which is also available by contacting me at huiting_rao@tongji.edu.cn.
 
 ## Citation
 
