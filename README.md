@@ -17,7 +17,7 @@ If you use our dataset or codes in your research, please cite our paper:
 @ARTICLE{R2Net,
   author={Rao, Huiting and Wang, Junyuan and Zhu, Huiling and Wang, Cheng-Xiang},
   journal={IEEE Transactions on Vehicular Technology}, 
-  title={R2Net: {2D} Deep Residual Learning with Height Embedding for {3D} Radio Map Estimation}, 
+  title={R$^{2}$Net: {2D} Deep Residual Learning with Height Embedding for {3D} Radio Map Estimation}, 
   year={2026},
   volume={},
   number={},
